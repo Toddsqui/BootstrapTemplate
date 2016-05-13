@@ -1,0 +1,28 @@
+body {
+  padding-top: 50px;
+  overflow-x: hidden;
+}
+
+.jumbotron {
+  background: url('../images/ocean.jpeg') no-repeat;
+  background-size: cover;
+  min-height: 88vh;
+  padding-bottom: 10px;
+}
+
+
+.ocean{
+  background: url('../images/ocean2.jpeg') no-repeat;
+  background-size: cover;
+  min-height: 50vh;
+  padding: 76px;
+}
+
+.secondrow {
+  padding-bottom: 55px;
+}
+
+.images{
+  width: 70px;
+  margin-right: 1%;
+}
